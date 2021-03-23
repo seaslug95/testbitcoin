@@ -7,9 +7,7 @@ from datetime import timedelta
 # python tests/test_mymodule.py
 # python -m pytest -v --cov=module --cov-report html tests/
 
-
 path = './tests/'
-data = 'test_increase_solved.csv'
 
 def mydf(path, data):
     col_list = ['Date', 'Close', 'bitcoin', 'money', 'worth']
