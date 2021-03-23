@@ -14,4 +14,4 @@ Instead of losing my time guessing the future, I only focus on historical prices
 - If today Bitcoin's price is HIGHER than previous daily prices I SELL a proportion of my Bitcoin
 - If today Bitcoin's price is LOWER than previous daily prices I BUY with a proportion of my Money
 
-![alt text](https://github.com/seaslug95/testbitcoin/blob/master/pics/Schema_Algo.PNG?raw=true)
+![alt text](https://github.com/seaslug95/testbitcoin/tree/master/pics/Schema_Algo.PNG?raw=true)

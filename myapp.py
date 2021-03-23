@@ -45,7 +45,6 @@ fig2.update(layout_showlegend=False)
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
-#app = dash.Dash()
 
 SIDEBAR_STYLE = {
     'position': 'fixed',
@@ -166,17 +165,10 @@ controls = dbc.FormGroup(
         }),
         filter_prop,
         html.Br(),
-        # html.A('User Manual (README)', href=f'https://github.com/VicCGI/bitcoin', target="_blank"),
-        # html.Div([
-        #     html.A("Link to external site", href='https://plot.ly', target="_blank")
-        # ]),
-        # html.P('TEST', style={
-        #     'textAlign': 'center'
-        # }),
         dbc.Button(
             children='User Manual (README)',
             color='primary',
-            href=f'https://github.com/VicCGI/bitcoin',
+            href=f'https://github.com/seaslug95/testbitcoin',
             target="_blank",
             block=True
         ),
