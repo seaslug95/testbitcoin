@@ -44,8 +44,8 @@ fig2.add_scatter(x=line, y=line, mode='lines', opacity=0.5, name='Unitary refere
 fig2.update(layout_showlegend=False)
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
-#server = app.server
-app = dash.Dash()
+server = app.server
+#app = dash.Dash()
 
 SIDEBAR_STYLE = {
     'position': 'fixed',
