@@ -1,0 +1,8 @@
+*.pyc 
+.env 
+.DS_Store
+venv/
+notes.txt
+.coverage
+.pytest_cache
+__pycache__/

@@ -1,0 +1,20 @@
+Date,Close,action,bitcoin,money,worth,10%,5 days,1 bitcoin,100 money,,If current price lower than 5 previous days (today included) I BUY with 10% of my money. 
+12/1/2014,100,NOTHING,1,100,200,,,,,,If current price higher than 5 previous days (today included) I SELL 10% of my bitcoin.
+12/2/2014,100,NOTHING,1,100,200,,,,,,Else NOTHING.
+12/3/2014,100,NOTHING,1,100,200,,,,,,
+12/4/2014,100,NOTHING,1,100,200,,,,,,
+12/5/2014,100,NOTHING,1,100,200,,,,,,
+12/6/2014,100,NOTHING,1,100,200,,,,,,
+12/7/2014,100,NOTHING,1,100,200,,,,,,
+12/8/2014,100,NOTHING,1,100,200,,,,,,
+12/9/2014,100,NOTHING,1,100,200,,,,,,
+12/10/2014,100,NOTHING,1,100,200,,,,,,
+12/11/2014,100,NOTHING,1,100,200,,,,,,
+12/12/2014,100,NOTHING,1,100,200,,,,,,
+12/13/2014,100,NOTHING,1,100,200,,,,,,
+12/14/2014,100,NOTHING,1,100,200,,,,,,
+12/15/2014,100,NOTHING,1,100,200,,,,,,
+12/16/2014,100,NOTHING,1,100,200,,,,,,
+12/17/2014,100,NOTHING,1,100,200,,,,,,
+12/18/2014,100,NOTHING,1,100,200,,,,,,
+12/19/2014,100,NOTHING,1,100,200,,,,,,
